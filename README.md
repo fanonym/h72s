@@ -10,7 +10,7 @@ This addon allows you to search and stream content from HS directly in Stremio.
 
 ## How it works
 
-1. The addon lets you search Hellspy.to's content directly from Stremio
+1. The addon lets you search HS's content directly from Stremio
 2. When you select a movie or episode, the addon fetches the stream URL from HS
 3. The content is streamed using stremio-local-addon
 
