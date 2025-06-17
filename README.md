@@ -43,7 +43,7 @@ This addon allows you to search and stream content from HS directly in Stremio.
 ## Notes
 
 - This addon doesn't download files but streams them through stremio-local-addon
-- Streaming quality depends on the source file quality from Hellspy.to
+- Streaming quality depends on the source file quality from HS
 - No registration or login required
 
 ## License
